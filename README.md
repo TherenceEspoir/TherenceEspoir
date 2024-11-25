@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**TherenceEspoir/TherenceEspoir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👨‍💻 Hello, I'm Espoir! 👋
 
-Here are some ideas to get you started:
+I'm a passionate **software engineer** who loves tinkering, creating small tools, and solving problems with code. 💻✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 **What I enjoy:**
+- Building and experimenting with new ideas 🔧⚙️
+- Making tools for developers 🚀
+- Automating repetitive tasks to save time 🤖⏳  
+- Contributing to and learning from the **open-source** community 🌍❤️  
+
+💡 I'm always curious about scripting, automation, or systems engineering, I find joy in making things work better!
+
